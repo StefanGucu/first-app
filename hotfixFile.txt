@@ -1,0 +1,4 @@
+Ovo je file sa hotfilx grane 
+
+pokusavu da sve spojim u master granu 
+
